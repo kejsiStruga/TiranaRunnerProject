@@ -1,0 +1,74 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1008 MB
+    Driver:   20.19.15.4444
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kejsi.struga\Desktop\AmarildoTFS\TiranaRunnerProject\levs_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Rounds') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 4.619039 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3064 -> priority: 1 
+  Thread -> id: 2194 -> priority: 1 
+Scene 'LevelSelector' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
+Scene 'LevelSelector' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
+Scene 'LevelSelector' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
+Scene 'LevelSelector' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
+Scene 'LevelSelector' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
+Scene 'LevelSelector' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
+Scene 'LevelSelector' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
+Exciting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
