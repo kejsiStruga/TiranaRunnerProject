@@ -6,23 +6,23 @@ using Assets.CoinsScripts;
 
 public class Player : MonoBehaviour
 {
-    private CharacterController controller;
-    public static float Speed;
-    private Animator anim;
-    public Transform CharacterGO;
-    private Vector3 moveVector;
-    private float verticalVelocity = 0.0f;
-    private float gravity = 1.0f;
-    public float JumpSpeed = 8.0f;
-    private bool hasJumped = false;
-    private float canJump = 0f;
-    public bool isDead = false;
+	private CharacterController controller;
+	public static float Speed;
+	private Animator anim;
+	public Transform CharacterGO;
+	private Vector3 moveVector;
+	private float verticalVelocity = 0.0f;
+	private float gravity = 1.0f;
+	public float JumpSpeed = 8.0f;
+	private bool hasJumped = false;
+	private float canJump = 0f;
+	public bool isDead = false;
 	public GameObject completeLevelUI;
 	private float stepHeight = 0.1f;
 	private float deltaStep = 0.3f;
 	private bool toggle = false;
-    private float jumpSpeed;
-    private float leftRightSpeed;
+	private float jumpSpeed;
+	private float leftRightSpeed;
 
     // Use this for initialization
     void Start()
@@ -36,8 +36,8 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		controller.stepOffset = stepHeight + (toggle? 0 :  deltaStep);
-	    toggle = !toggle;
+	controller.stepOffset = stepHeight + (toggle? 0 :  deltaStep);
+	toggle = !toggle;
 
         anim.SetInteger("AnimParameter", Input.GetButtonUp("Jump") ? 1 : 0);
       
